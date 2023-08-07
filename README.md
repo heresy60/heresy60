@@ -20,4 +20,4 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 ## ▎Github-stats
-![Anurag's GitHub stats](https://github-stats-fork-heresy60.vercel.app/api?username=heresy60&theme=radical)  ![Top Langs](https://github-stats-fork-heresy60.vercel.app/api/top-langs/?username=heresy60&exclude_repo=github-stats-fork&layout=compact)
+![Anurag's GitHub stats](https://github-stats-fork-three.vercel.app/api?username=heresy60&theme=radical)  ![Top Langs](https://github-stats-fork-three.vercel.app/api/top-langs/?username=heresy60&exclude_repo=github-stats-fork&layout=compact)
