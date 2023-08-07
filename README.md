@@ -18,3 +18,6 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black"/> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
+## ▎Github-stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heresy60&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heresy60&layout=compact)
