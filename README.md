@@ -19,5 +19,3 @@
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
-## ▎Github-stats
-![Anurag's GitHub stats](https://github-stats-fork-three.vercel.app/api?username=heresy60&theme=radical)  ![Top Langs](https://github-stats-fork-three.vercel.app/api/top-langs/?username=heresy60&layout=compact)
